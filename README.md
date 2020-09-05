@@ -59,3 +59,27 @@ You'll then write an audit performance document that consists of some written te
 Now that you know the codebase by heart, take your audit document and add some more information to it. It's time to write technical documentation! Take some of these great examples as inspiration. - https://www.atlassian.com/blog/add-ons/5-real-life-examples-beautiful-technical-documentation
 
 Simply put, you'll need to write documentation that describes the project, how it works (technically), and include your audit writeup in the documentation. You can do this in any format you want, whether it's a wiki on Github, a text document, or something else.
+
+Requirements:
+
+1. Fix the bugs in the project.
+
+2. Add tests to the project.
+
+3. Compare the project with the competitors project.
+
+4. Analyze the performance of both projects.
+
+5. Perform audits for both projects.
+
+6. Create documentation about the project (including your audit writeup).
+
+7. Technologies has to be used:
+   - HTML
+   - CSS
+   - Javascript
+   - Jasmine (JavaScript testing framework)
+   - DevTools
+   - BDD (Behavior Driven Development)
+   - TDD (Test Driven Development)
+   - MVC architecture (Model-View-Controller)
